@@ -41,4 +41,4 @@ Go deep only when you hit a wall in applied work. Examples:
 
 ## Related
 
-- [[00_Vault_Overview]] — [[01_Foundations/00_overview]] — [[03_Foundation_Models_and_LLMs/00_overview]]
+- [[README]] — [[01_Foundations/00_overview]] — [[03_Foundation_Models_and_LLMs/00_overview]]

@@ -31,4 +31,4 @@ Build when you're responsible for production systems. The boundary with [[career
 
 ## Related
 
-- [[00_Vault_Overview]] — [[04_Applied_AI_Engineering/00_overview]] — [[06_Governance_and_Responsible_AI/00_overview]]
+- [[README]] — [[04_Applied_AI_Engineering/00_overview]] — [[06_Governance_and_Responsible_AI/00_overview]]

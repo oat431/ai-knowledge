@@ -31,4 +31,4 @@ Only build a domain when a real project demands it. Sources: `oralita_md/persona
 
 ## Related
 
-- [[00_Vault_Overview]]
+- [[README]]

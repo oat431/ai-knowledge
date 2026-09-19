@@ -67,4 +67,4 @@ status: living
 ## Related
 
 - [[09_Reading_List]] — annotated tier list
-- [[00_Vault_Overview]]
+- [[README]]

@@ -66,4 +66,4 @@ Before any applied pattern ships from this pillar into production:
 
 ## Related
 
-- [[00_Vault_Overview]] — [[03_Foundation_Models_and_LLMs/00_overview]] — [[05_AI_Operations_and_MLOps/00_overview]] — [[08_Practitioner_Notes/00_overview]]
+- [[README]] — [[03_Foundation_Models_and_LLMs/00_overview]] — [[05_AI_Operations_and_MLOps/00_overview]] — [[08_Practitioner_Notes/00_overview]]

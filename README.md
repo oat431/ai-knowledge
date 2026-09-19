@@ -1,11 +1,3 @@
----
-title: "AI Engineering Knowledge Vault"
-note_type: vault-overview
-sibling_vault: "[[swe-knowledge/Computing Foundation Overview|SWE Knowledge Vault]]"
-tags: [ai, vault, overview, evergreen]
-status: living
----
-
 # AI Engineering Knowledge Vault
 
 > **Purpose:** A dedicated Obsidian vault for AI engineering — fundamental *and* applied. Built from the structure proposed in `oralita_md/personal/ai/ai-engineering-knowledge-vault-proposal.md`, decided 2026-09-19.
@@ -43,7 +35,7 @@ No mature body of knowledge exists for AI engineering the way SWEBOK covers soft
 **Applied-first path** (recommended for working engineers):
 
 ```mermaid
-flowchart TD
+flowchart LR
     T0A["Tier 0: AI Engineering (Huyen) + Hands-On LLMs (Alammar)"]
     T0A -->|"build applied pillar 04"| T3["Tier 3: OWASP LLM Top 10 + Anthropic agents + Hamel Husain evals"]
     T3 -->|"ship safely"| T0B["Tier 0: Designing ML Systems + LLM Engineer's Handbook"]

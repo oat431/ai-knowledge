@@ -38,4 +38,4 @@ Use the ADR template from `swe-knowledge/document-template/`. Every consequentia
 
 ## Related
 
-- [[00_Vault_Overview]] — [[04_Applied_AI_Engineering/00_overview]]
+- [[README]] — [[04_Applied_AI_Engineering/00_overview]]

@@ -37,4 +37,4 @@ Build when you're shipping user-facing AI and need compliance artifacts. The car
 
 ## Related
 
-- [[00_Vault_Overview]] — [[04_Applied_AI_Engineering/04_AI_Security_and_Guardrails/00_overview]]
+- [[README]] — [[04_Applied_AI_Engineering/04_AI_Security_and_Guardrails/00_overview]]

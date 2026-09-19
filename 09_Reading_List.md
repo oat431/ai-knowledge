@@ -92,4 +92,4 @@ Tier 7: your own ADRs, evals, postmortems — ongoing
 ## Related
 
 - [[10_Source_Index]] — verification log
-- [[00_Vault_Overview]]
+- [[README]]

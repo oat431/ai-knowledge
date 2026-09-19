@@ -42,6 +42,6 @@ The math you actually need as an AI engineer: not 4 semesters of pure math, but 
 
 ## Related
 
-- [[00_Vault_Overview]] — vault map
+- [[README]] — vault map
 - [[02_Core_Machine_Learning/00_overview]] — what foundations enable
 - `oralita_md/personal/ai/ai-engineering-reading-list.md` — Tier 1 sources

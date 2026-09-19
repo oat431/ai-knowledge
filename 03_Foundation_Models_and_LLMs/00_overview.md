@@ -43,4 +43,4 @@ The engineering-relevant theory behind the models you use every day. You don't n
 
 ## Related
 
-- [[00_Vault_Overview]] — [[02_Core_Machine_Learning/00_overview]] — [[04_Applied_AI_Engineering/00_overview]]
+- [[README]] — [[02_Core_Machine_Learning/00_overview]] — [[04_Applied_AI_Engineering/00_overview]]
